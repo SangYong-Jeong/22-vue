@@ -27,6 +27,7 @@ export default {
   width: 23%;
   margin-right: 2%;
   margin-bottom: 2%;
+  cursor: pointer;
   border: 1px solid $primary-color;
   @include LG {
     width: 31.3333%;
